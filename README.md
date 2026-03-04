@@ -7,3 +7,10 @@
 | Install latest LTS (via nvm)  | `nvm install --lts`         |
 | Install latest Node (current) | `nvm install node`          |
 | Update npm                    | `npm install -g npm@latest` |
+
+## Yarn
+| Task                | Command                      |
+| ------------------- | ---------------------------- |
+| Check version       | `yarn -v`                    |
+| Install via npm     | `npm install -g yarn`        |
+| Update Yarn         | `npm install -g yarn@latest` |
